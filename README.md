@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sadaf.
-- 🌱 I’m currently learning back end development.
+- 🌱 I’m currently learning Full Stack Web Development.
 
 
 <!---
