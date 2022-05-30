@@ -1,4 +1,4 @@
-- <center><h1>Hi 👋, I’m Sadaf</h1></center>
+<h1>Hi 👋, I’m Sadaf</h1>
 - 🌱 I’m currently learning Full Stack Web Development.
 
 
