@@ -1,5 +1,8 @@
 <h1>Hi 👋, I’m Sadaf</h1>
-- 🌱 I’m currently learning Full Stack Web Development.
+👩‍💻 Computer Science Enthusiast<br>
+
+- 👩‍🎓 4th Year Computer Science & Engineering Student at WCE.<br>
+- 🌱 Learning Full Stack Web Development.
 
 
 <!---
