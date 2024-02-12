@@ -1,9 +1,10 @@
-<h1>Hi 👋, I’m Sadaf</h1>
-👩‍💻 Computer Science Enthusiast<br>
+## Hi 👋, I’m Sadaf
+👩‍💻 Computer Science Enthusiast
 
-- 👩‍🎓 4th Year Computer Science & Engineering Student at WCE.<br>
-- 🌱 Learning Full Stack Web Development.
-
+### About Me:
++ Full-Stack Developer
++ Back-end Developer @Gupshup
++ Graduated from Walchand College of Engineering Sangli.
 
 <!---
 sadafmulla/sadafmulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
