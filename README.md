@@ -1,5 +1,5 @@
 # Hi 👋, I’m Chinmayi Pathak
-👩‍💻 Computer Science Enthusiast
+👩‍💻 Data Science Enthusiast
 <img align="right" src="./images/profile_image.gif" width="300">
 
 <br/>
