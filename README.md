@@ -1,13 +1,13 @@
-# Hi 👋, I’m Chinmayi Pathak
-👩‍💻 Data Science Enthusiast
+# Hi 👋, I’m Sadaf
+👩‍💻 Computer Science Enthusiast
 <img align="right" src="./images/profile_image.gif" width="300">
 
 <br/>
 
 ## About Me:
 + Full-Stack Developer
-+ Studying in Annasaheb Dange College of Engineering and Technology, Sangli
-+ Graduation in Aug 2024
++ Back-end Developer @Gupshup
++ Graduated from Walchand College of Engineering, Sangli.
   
 <br/> 
 
@@ -17,7 +17,7 @@
 <br/> 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/chinmayi-pathak-7715a823b/"><img src="./images/linkedin.png" width="30"></a>
+<a href="https://www.linkedin.com/in/sadaf-mulla-9264721b2/"><img src="./images/linkedin.png" width="30"></a>
 <!---
 sadafmulla/sadafmulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
