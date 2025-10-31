@@ -1,12 +1,12 @@
 # Hi 👋, I’m Sadaf
-👩‍💻 Computer Science Enthusiast
+👩‍💻 Software Engineer
 <img align="right" src="./images/profile_image.gif" width="300">
 
 <br/>
 
 ## About Me:
-+ Full-Stack Developer
-+ Back-end Developer @Gupshup
++ QA Automation Engineer
++ Software Engineer @Gupshup
 + Graduated from Walchand College of Engineering, Sangli.
   
 <br/> 
